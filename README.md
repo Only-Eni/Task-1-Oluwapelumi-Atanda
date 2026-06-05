@@ -12,5 +12,5 @@ Before any statistical analysis or visualization can occur, the foundation must 
 
 ## 📂 Repository Contents
 * **[`Raw(Decodelab).csv`](Raw(Decodelab).csv):** The original, unstructured dataset.
-* **[`Cleaned_DecodeLabs_Data.xlsx`](Phase%201%20Data%20cleaning/Cleaned_DecodeLabs_Data.xlsx):** The finalized, standardized dataset ready for EDA.
+* **[`Cleaned_DecodeLabs_Data.xlsx`](Phase%201%20Data%20cleaning%20/Cleaned_DecodeLabs_Data.xlsx):** The finalized, standardized dataset ready for EDA.
 * **[`Data_Cleaning_Summary.md`](Data_Cleaning_Summary.md):** The summary of the cleaning process
