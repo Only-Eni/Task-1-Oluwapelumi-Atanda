@@ -11,5 +11,5 @@ Before any statistical analysis or visualization can occur, the foundation must 
 * **Anomaly Flagging:** Identified initial discrepancies in product categorization (e.g., extreme price variance within single categories) to be targeted during the Phase 2 Exploratory Data Analysis.
 
 ## 📂 Repository Contents
-* **[`Raw(Decodelab).csv`](#):** The original, unstructured dataset.
-* **[`Cleaned_DecodeLabs_Data.xlsx`](#):** The finalized, standardized dataset ready for EDA.
+* **[`Raw(Decodelab).csv`](Raw(Decodelab).csv):** The original, unstructured dataset.
+* **[`Cleaned_DecodeLabs_Data.xlsx`](Cleaned_DecodeLabs_Data.xlsx):** The finalized, standardized dataset ready for EDA.
